@@ -4,11 +4,13 @@
 
 ### スクリーンショット
 <img src="images/title.jpg" width="200">
+<img src="images/selecting.jpg" width="200">
 <img src="images/enemy_damage.jpg" width="200"> 
 <img src="images/enemy_guard.jpg" width="200">
 <img src="images/ryuichi_001.png" width="200">
 <img src="images/ryuichi_002.png" width="200">
 <img src="images/ryuichi_003.png" width="200"> 
+<img src="images/you_lose.jpg" width="200"> 
 
 ### ストーリー
 重度のイップスによりジャブしか打てなくなったボクサー「ジャブヤマ・スグル」は自暴自棄な毎日を送っていた。そんなある日、伝説のトレーナー「ジャバー・リュウイチ」と出会いジャブの才能を見出される。彼が営むボクシングジム「JABZAP」に入会し、世界チャンピオンになることを目指し、成果にコミットする日々が始まる！
